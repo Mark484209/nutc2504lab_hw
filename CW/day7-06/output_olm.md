@@ -1,30 +1,3 @@
-# Evaluation Report
+[ \begin{array}{|c|c|c|c|} \hline \text{Time (s)} &amp; \text{Distance (m)} &amp; \text{Speed (m/s)} &amp; \text{Acceleration (m/s}^2) \ \hline 0 &amp; 0 &amp; 0 &amp; 0 \ 1 &amp; 5 &amp; 5 &amp; 5 \ 2 &amp; 10 &amp; 10 &amp; 5 \ 3 &amp; 15 &amp; 15 &amp; 5 \ 4 &amp; 20 &amp; 20 &amp; 5 \ 5 &amp; 25 &amp; 25 &amp; 5 \ 6 &amp; 30 &amp; 30 &amp; 5 \ 7 &amp; 35 &amp; 35 &amp; 5 \ 8 &amp; 40 &amp; 40 &amp; 5 \ 9 &amp; 45 &amp; 45 &amp; 5 \ 10 &amp; 50 &amp; 50 &amp; 5 \ \hline \end{array} ]
 
-## 📊 結構化評估表格
-
-| Category | Question | Top-K | Precision | AP | NDCG |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Covid-19 Wiki | Q1 | 5 | 0.0 | 0.0 | 0.0 |
-| Covid-19 Wiki | Q1 | 10 | 0.0 | 0.0 | 0.0 |
-| Covid-19 Wiki | Q1 | 20 | 0.0 | 0.0 | 0.0 |
-| Covid-19 Wiki | Q2 | 5 | 0.0 | 0.0 | 0.0 |
-| Covid-19 Wiki | Q2 | 10 | 0.0 | 0.0 | 0.0 |
-| Covid-19 Wiki | Q2 | 20 | 0.0 | 0.0 | 0.0 |
-| Covid-19 Wiki | Q3 | 5 | 0.0 | 0.0 | 0.0 |
-| Covid-19 Wiki | Q3 | 10 | 0.0 | 0.0 | 0.0 |
-| Covid-19 Wiki | Q3 | 20 | 0.0 | 0.0 | 0.0 |
-| Linux Update | Q1 | 5 | 0.0 | 0.0 | 0.0 |
-| Linux Update | Q1 | 10 | 0.0 | 0.0 | 0.0 |
-| Linux Update | Q1 | 20 | 0.0 | 0.0 | 0.0 |
-| Linux Update | Q2 | 5 | 0.0 | 0.0 | 0.0 |
-| Linux Update | Q2 | 10 | 0.8 | 0.92 | 0.85 |
-| Linux Update | Q2 | 20 | 0.0 | 0.0 | 0.0 |
-| Linux Update | Q3 | 5 | 0.0 | 0.0 | 0.0 |
-| Linux Update | Q3 | 10 | 0.0 | 0.0 | 0.0 |
-| Linux Update | Q3 | 20 | 0.0 | 0.0 | 0.0 |
-
-
---- 
-
-## 📝 原始 OCR 辨識文本紀錄
-
+[ \begin{array}{|c|c|c|c|} \hline \text{Time (s)} &amp; \text{Distance (m)} &amp; \text{Speed (m/s)} &amp; \text{Acceleration (m/s}^2) \ \hline 0 &amp; 0 &amp; 0 &amp; 0 \ 1 &amp; 5 &amp; 5 &amp; 5 \ 2 &amp; 10 &amp; 10 &amp; 5 \ 3 &amp; 15 &amp; 15 &amp; 5 \ 4 &amp; 20 &amp; 20 &amp; 5 \ 5 &amp; 25 &amp; 25 &amp; 5 \ 6 &amp; 30 &amp; 30 &amp; 5 \ 7 &amp; 35 &amp; 35 &amp; 5 \ 8 &amp; 40 &amp; 40 &amp; 5 \ 9 &amp; 45 &amp; 45 &amp; 5 \ 10 &amp; 50 &amp; 50 &amp; 5 \ \hline \end{array} ]
