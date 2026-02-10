@@ -190,3 +190,4 @@ if __name__ == "__main__":
                 if len(data["final_answer"]) > 5: 
                     print("\n" + "✨"*10 + " 查證報告 " + "✨"*10)
                     print(data["final_answer"])
+                    
